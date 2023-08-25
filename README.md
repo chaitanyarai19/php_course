@@ -21,13 +21,15 @@ To get started with the course, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
+```
 git clone https://github.com/chaitanyarai19/php_course
-
+```
 
 2. Navigate to the repository's directory:
 
+```
 cd php_course
-
+```
 
 3. Start exploring the course materials, code examples, and resources provided in the repository.
 
@@ -63,18 +65,21 @@ If you find any issues, errors, or have suggestions for improvement, feel free t
 1. Fork the repository to your GitHub account.
 2. Create a new branch for your changes:
 
+```
 git checkout -b feature/add-new-topic
-
+```
 
 3. Make your changes and commit them with descriptive commit messages:
 
+```
 git commit -m "Add explanation for variables"
-
+```
 
 4. Push your changes to your forked repository:
 
+```
 git push origin feature/add-new-topic
-
+```
 
 5. Create a pull request detailing your changes. We'll review your contribution and merge it if it aligns with the course's goals.
 
