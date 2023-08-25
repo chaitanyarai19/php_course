@@ -20,9 +20,9 @@ This course is designed to provide beginners with a solid foundation in PHP prog
 To get started with the course, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-
+```
 git clone https://github.com/chaitanyarai19/php_course
-
+```
 
 2. Navigate to the repository's directory:
 
